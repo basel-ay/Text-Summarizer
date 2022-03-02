@@ -18,3 +18,8 @@ In the Abstractive Summarization approach, we work on generating new sentences f
 
 We are going to focus on using extractive methods. This method functions by identifying important sentences or excerpts from the text and reproducing them as part of the summary. In this approach, no new text is generated, only the existing text is used in the summarization process. 
 
+## Cosine Similarity
+
+is the cosine of the angle between two n-dimensional vectors in an n-dimensional space. It is the dot product of the two vectors divided by the product of the two vectors' lengths (or magnitudes).
+
+![](https://neo4j.com/docs/graph-data-science/current/_images/cosine-similarity.png)
