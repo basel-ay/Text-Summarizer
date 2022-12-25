@@ -81,7 +81,7 @@ After training, the model is tested on new source sequences for which the target
 
 ## Model Architecture
 
-![image](https://user-images.githubusercontent.com/64821137/209453552-17168ce1-775e-40ff-a702-e0a368ae1100.png)
+![image](https://user-images.githubusercontent.com/64821137/209453629-97e7cbe6-8186-4aa9-add3-4cf6210269b6.png)
 
 ## Results
 
